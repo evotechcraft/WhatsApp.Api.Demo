@@ -2,6 +2,10 @@
 
 This demo API project demonstrates how to use the `WhatsApp.Api.Otp` NuGet package to send OTP messages via WhatsApp Business APIs. It provides a sample implementation to streamline your integration process.
 
+## Sample .NET Api project using this nuget package
+
+WhatsApp Api Otp nuget package Git Repository - https://github.com/evotechcraft/WhatsApp.Api.Otp
+
 ## Project Structure
 
 - **Controllers**: Contains the `WhatsappMessageController` to handle API requests.
