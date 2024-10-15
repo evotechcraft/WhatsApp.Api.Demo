@@ -102,7 +102,7 @@ curl --location 'https://zerotech.me/api/v1/WhatsappOtpMessage/SendOtpMessage' \
 ```
 
 ## Support
-For any questions or issues, please contact support at sales@evotechcraft.com.
+For any questions or issues, please contact support at support@evotechcraft.com.
 
 ## License
 This demo project is licensed under the MIT License. See the LICENSE file for more details.
