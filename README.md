@@ -6,6 +6,13 @@ This demo API project demonstrates how to use the `WhatsApp.Api.Otp` NuGet packa
 
 WhatsApp Api Otp nuget package Git Repository - https://github.com/evotechcraft/WhatsApp.Api.Otp
 
+## Hire Us
+Contact Email - contact@evotechcraft.com
+
+## Free Support
+For any questions or issues, please contact support at 
+Support mail: support@evotechcraft.com
+
 ## Project Structure
 
 - **Controllers**: Contains the `WhatsappMessageController` to handle API requests.
@@ -101,11 +108,13 @@ curl --location 'https://zerotech.me/api/v1/WhatsappOtpMessage/SendOtpMessage' \
 }'
 ```
 
-## Support
-For any questions or issues, please contact support at sales@evotechcraft.com.
-
 ## License
 This demo project is licensed under the MIT License. See the LICENSE file for more details.
 
+## Issues
 
-This README file explains setting up and using the demo API project with the `WhatsApp.Api.Otp` package. Feel free to adjust contact and configuration details to fit your specific setup.
+If you will face any issues with the usage of this package please raise one so that we can quickly fix it as soon as possible.
+
+## Contributing
+
+This is an open-source project under ```MIT License``` so anyone is welcome to contribute from typos, to source code to documentation.
